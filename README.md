@@ -13,12 +13,12 @@
     table {
       margin: auto;
       background: #c8e0f8;
-      border: 2px solid black;
+      border: 2 px solid black;
       border-collapse: collapse;
     }
     th, td {
-      border: 1px solid black;
-      padding: 5px;
+      border: 1 px solid black;
+      padding: 5 px;
     }
   </style>
 </head>
@@ -99,16 +99,16 @@
       font-family: Verdana, sans-serif;
     }
     #wrapper {
-      width: 800px;
+      width: 800 px;
       margin: auto;
-      padding: 10px;
+      padding: 10 px;
       background: white;
       overflow: hidden;
     }
     #header {
       background: #a5ece3;
-      border: 3px solid #e0fbf8;
-      padding: 10px;
+      border: 3 px solid #e0fbf8;
+      padding: 10 px;
       text-align: right;
     }
     #header h1 {
@@ -118,11 +118,11 @@
     }
     #friends {
       float: left;
-      width: 180px;
-      margin: 1px;
-      padding: 10px;
+      width: 180 px;
+      margin: 1 px;
+      padding: 10 px;
       background: #2ed3c3;
-      border: 4px solid #19a99a;
+      border: 4 px solid #19a99a;
     }
     #friends h2 {
       font-weight: normal;
@@ -135,23 +135,23 @@
     }
     #entries {
       float: right;
-      width: 580px;
+      width: 580 px;
     }
     .entry {
-      margin-top: 10px;
-      padding: 10px;
+      margin-top: 10 px;
+      padding: 10 px;
       background: #e0fbf8;
-      border: 3px solid #a5ece3;
+      border: 3 px solid #a5ece3;
       overflow: hidden;
     }
     .entry h3 {
-      border-bottom: 2px dashed blue;
+      border-bottom: 2 px dashed blue;
       font-weight: normal;
       color: #19a99a;
     }
     .entry img {
       float: right;
-      margin-left: 10px;
+      margin-left: 10 px;
     }
     .date {
       font-weight: bold;
