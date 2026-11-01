@@ -8,22 +8,19 @@
     body {
       background: #dcdcdc;
     }
-
     h2 {
       text-align: center;
       color: red;
     }
-
     table {
       margin: auto;
       background: #c8e0f8;
-      border: 2px solid black;
+      border: 2 px solid black;
       border-collapse: collapse;
     }
-
     th, td {
-      border: 1px solid black;
-      padding: 5px;
+      border: 1 px solid black;
+      padding: 5 px;
     }
   </style>
 </head>
@@ -33,27 +30,22 @@
 
   <form>
     <table>
-
       <tr>
         <th>Name</th>
         <td><input type="text" placeholder="Enter your name"></td>
       </tr>
-
       <tr>
         <th>eMail</th>
         <td><input type="email" value="info@continental.pk"></td>
       </tr>
-
       <tr>
         <th>Mobile No</th>
         <td><input type="text" placeholder="Enter your cell number"></td>
       </tr>
-
       <tr>
         <th>Arrival Time</th>
         <td><input type="text" placeholder="Enter your arrival time"></td>
       </tr>
-
       <tr>
         <th>Departure</th>
         <td>
@@ -61,7 +53,6 @@
           <input type="text">
         </td>
       </tr>
-
       <tr>
         <th>Room Type</th>
         <td>
@@ -70,7 +61,6 @@
           <input type="radio" name="room">Presidential Suite
         </td>
       </tr>
-
       <tr>
         <th>Preferences</th>
         <td>
@@ -79,7 +69,6 @@
           <input type="checkbox">Firm Mattress
         </td>
       </tr>
-
       <tr>
         <th>Mode of Payment</th>
         <td>
@@ -91,13 +80,11 @@
           </select>
         </td>
       </tr>
-
       <tr>
         <td colspan="2" style="text-align:center">
           <input type="submit" value="Send Data">
         </td>
       </tr>
-
     </table>
   </form>
 
