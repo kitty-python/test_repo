@@ -98,7 +98,6 @@
       background: #cfe6e3;
       font-family: Verdana, sans-serif;
     }
-
     #wrapper {
       width: 800px;
       margin: auto;
@@ -106,21 +105,17 @@
       background: white;
       overflow: hidden;
     }
-
     #header {
       background: #a5ece3;
       border: 3px solid #e0fbf8;
       padding: 10px;
       text-align: right;
     }
-
     #header h1 {
       margin: 0;
       font-weight: normal;
       color: #19b5a5;
     }
-
-
     #friends {
       float: left;
       width: 180px;
@@ -129,24 +124,19 @@
       background: #2ed3c3;
       border: 4px solid #19a99a;
     }
-
     #friends h2 {
       font-weight: normal;
       color: #b8f3ec;
     }
-
     .friend {
       font-family: "Times New Roman", serif;
       font-weight: bold;
       color: white;
     }
-
-
     #entries {
       float: right;
       width: 580px;
     }
-
     .entry {
       margin-top: 10px;
       padding: 10px;
@@ -154,18 +144,15 @@
       border: 3px solid #a5ece3;
       overflow: hidden;
     }
-
     .entry h3 {
       border-bottom: 2px dashed blue;
       font-weight: normal;
       color: #19a99a;
     }
-
     .entry img {
       float: right;
       margin-left: 10px;
     }
-
     .date {
       font-weight: bold;
       color: #19b5a5;
@@ -174,12 +161,10 @@
 </head>
 <body>
   <div id="wrapper">
-
     <div id="header">
       <h1>Victoria's Journal</h1>
       <p>So fresh and so clean</p>
     </div>
-
     <div id="friends">
       <h2>Friends</h2>
       <ul>
@@ -188,9 +173,7 @@
         <li><span class="friend">Conan The Librarian</span></li>
       </ul>
     </div>
-
     <div id="entries">
-
       <div class="entry">
         <h3><span class="date">04/09/08:</span> Spatulas</h3>
         <img src="spatula.png" alt="Spatula" width="150">
@@ -199,7 +182,6 @@
           (what better way to say I love myself than to buy myself a spatula?)
         </p>
       </div>
-
       <div class="entry">
         <h3><span class="date">04/08/08:</span> Cookie Cupcakes</h3>
         <img src="cupcakes.png" alt="Cookie cupcakes" width="150">
@@ -211,7 +193,6 @@
           you." I wonder if the same applies for the cupcakes?
         </p>
       </div>
-
     </div>
   </div>
 </body>
